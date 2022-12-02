@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wambua Meshack
+- 👋 Hi, I’m Wambua Musalu
 - 👀 I’m interested in web development, everything JS, react and pyschological literature
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on react web app projects
