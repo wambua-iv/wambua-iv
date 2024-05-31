@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wambua Musalu
-- 👀 I’m interested in web development, everything JS, React, NestJs, cloud and Rust
-- 🌱 I’m currently getting acquitted with Microsoft Azure and the Rust programming.
-- 💞️ I’m looking to collaborate on react web app projects
+- 👀 I’m interested in web development, everything Backend JavaScript, virtualization and Golang.
+- 🌱 Something is always cooking.
+- 💞️ I’m looking to collaborate on backend projects on Golang and JavaScript.
 - 📫 How to reach me @ => musaluwambua@gmail.com
 
 <!---
